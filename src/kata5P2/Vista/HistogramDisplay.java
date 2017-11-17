@@ -1,9 +1,9 @@
 
-package kata4.Vista;
+package kata5P2.Vista;
 
 import java.awt.Dimension;
 import javax.swing.JPanel;
-import kata4.Modelo.Histogram;
+import kata5P2.Modelo.Histogram;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;

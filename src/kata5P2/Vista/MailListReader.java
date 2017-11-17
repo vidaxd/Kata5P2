@@ -1,4 +1,4 @@
-package kata4.Vista;
+package kata5P2.Vista;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -7,7 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import kata4.Modelo.Mail;
+import kata5P2.Modelo.Mail;
 
 public class MailListReader {
     
